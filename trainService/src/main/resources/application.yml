@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: trainService
+  data:
+      mongodb:
+        uri: mongodb://localhost:27017/railwaydata
+server:
+  port: 8890

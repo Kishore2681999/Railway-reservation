@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: railwayAuthentication
+  data:
+      mongodb:
+        uri: mongodb://localhost:27017/railwaydata
+server:
+  port: 8889
